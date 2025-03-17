@@ -18,7 +18,7 @@ To run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rohit-8626/Polynomial-Regression.git
+   git clone https://github.com/Rohit-8626/Polynomial-Regression.git
    cd Polynomial-Regression
    ```
 2. Install dependencies:
